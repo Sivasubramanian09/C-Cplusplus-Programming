@@ -1,0 +1,3 @@
+/home/siva/cpp/Programs/Linear_regression/Build/CMakeFiles/main.dir
+/home/siva/cpp/Programs/Linear_regression/Build/CMakeFiles/edit_cache.dir
+/home/siva/cpp/Programs/Linear_regression/Build/CMakeFiles/rebuild_cache.dir
