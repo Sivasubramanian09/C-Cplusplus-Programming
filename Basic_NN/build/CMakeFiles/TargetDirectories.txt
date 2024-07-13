@@ -1,3 +1,0 @@
-/home/siva/cpp/Programs/Task2/Task2_new/build/CMakeFiles/main.dir
-/home/siva/cpp/Programs/Task2/Task2_new/build/CMakeFiles/edit_cache.dir
-/home/siva/cpp/Programs/Task2/Task2_new/build/CMakeFiles/rebuild_cache.dir
